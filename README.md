@@ -3,7 +3,7 @@
 
 This is a collection of MATLAB codes that implement a new algorithm for Multivariate Regression on manifolds proposed in the paper. We consider regression problems where given a multivariate observation $\bs{x}\in\bbR^{d}$, the output response *\bs{y}* lies on a Riemannian manifold *\mathcal{M}*. We propose a new regression model to deal with the presence of grossly corrupted manifold-valued responses. 
 
-Full paper here: [http://arxiv.org/abs/](http://arxiv.org/abs/)
+Full paper here: [arXiv:1703.08772](https://arxiv.org/abs/1703.08772)
 
 We also have a project website [here](https://web.bii.a-star.edu.sg/~zhangxw/palmr-SPD).
 
